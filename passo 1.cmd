@@ -1,0 +1,1 @@
+Control.exe /name Microsoft.networkandSharingcenter
